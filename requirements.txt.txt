@@ -1,5 +1,0 @@
-pandas==3.0.3
-joblib==1.5.3
-streamlit==1.58.0
-streamlit_option_menu==0.4.0
-scikit_learn==1.8.0
